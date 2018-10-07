@@ -1,2 +1,0 @@
-A Clojure translation of the number-theory namespace of [Racket's math library]. (https://docs.racket-lang.org/math/number-theory.html)
-Inspired by a suggestion from [Mark Engelberg](https://github.com/Engelberg).
